@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+
+<body>
+
+</body>
+<script>
+	// 回调函数，打印出请求数据与响应数据
+	var getJsonpData = "javascript"
+
+	function jsonpCallBack(res, req) {
+		console.log(res, req);
+	}
+</script>
+<script type="text/javascript" src="http:localhost/js/jsonp.php?callback=jsonpCallBack&data=getJsonpData"></script>
+
+</html>
