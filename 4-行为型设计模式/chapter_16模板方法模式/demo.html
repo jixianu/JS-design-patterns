@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script src="16.3创建基本提示框.js"></script>
+<script src="16.4模板的原型方法.js"></script>
+<script src="16.5根据模板类创建类.js"></script>
+<script src="16.6继承类也可作为模板类.js"></script>
+<script>
+    new CancelAlert({
+        title : '提示标题',
+        content : '提示内容',
+        success : function () {
+            console.log( 'ok' );
+        },
+        fail : function () {
+            console.log( 'cancel' );
+        }
+    }).init();
+</script>
+</html>
