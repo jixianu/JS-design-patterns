@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4031b7c1-87b0-476c-ba28-ae706b2fc151" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/16.3创建基本提示框.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/16.4模板的原型方法.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/16.5根据模板类创建类.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/16.6继承类也可作为模板类.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.3 创建一个观察者.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.3 创建一个观察者.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.6大显身手.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.6大显身手.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.7对象间解耦.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.7对象间解耦.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.8演练.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.8演练.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/demo.html" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/18.6状态优化.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/18.6状态优化.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/18.7两种使用方式.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/18.7两种使用方式.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/demo.html" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.3策略对象.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.3策略对象.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.6表单验证.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.6表单验证.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.7拓展与调用.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.7拓展与调用.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/demo.html" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.3第一站-请求模式.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.3第一站-请求模式.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.4下一站-响应数据适配模块.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.4下一站-响应数据适配模块.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.5终点站-创建组件模块.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.5终点站-创建组件模块.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.6单元测试.js" afterPath="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.6单元测试.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="javascript-design-patterns02-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,51 +42,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="16.3创建基本提示框.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/16.3创建基本提示框.js">
+      <file leaf-file-name="20.3第一站-请求模式.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.3第一站-请求模式.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="16.4模板的原型方法.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/16.4模板的原型方法.js">
+      <file leaf-file-name="20.4下一站-响应数据适配模块.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.4下一站-响应数据适配模块.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="214">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="16.5根据模板类创建类.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/16.5根据模板类创建类.js">
+      <file leaf-file-name="20.5终点站-创建组件模块.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.5终点站-创建组件模块.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="456">
+              <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="16.6继承类也可作为模板类.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/16.6继承类也可作为模板类.js">
+      <file leaf-file-name="20.6单元测试.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.6单元测试.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+            <state relative-caret-position="266">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -84,8 +87,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -119,6 +122,23 @@
         <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/16.5根据模板类创建类.js" />
         <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/demo.html" />
         <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/16.3创建基本提示框.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.3 创建一个观察者.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.6大显身手.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.7对象间解耦.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.8演练.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/demo.html" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/18.6状态优化.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/18.7两种使用方式.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/demo.html" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.3策略对象.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/demo.html" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.6表单验证.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.7拓展与调用.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.3.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.3第一站-请求模式.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.4下一站-响应数据适配模块.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.5终点站-创建组件模块.js" />
+        <option value="$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.6单元测试.js" />
       </list>
     </option>
   </component>
@@ -129,9 +149,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1292" />
-    <option name="height" value="767" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="776" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -175,7 +196,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -194,15 +214,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-design-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-design-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4-行为型设计模式" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-design-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-design-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3-结构性设计模式" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.lastSelected" value="configurable.group.appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="D:/work/iframe图片放大" />
+    <property name="last_opened_file_path" value="D:/work/九鼎直销" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -289,23 +338,28 @@
       <workItem from="1484537011665" duration="3605000" />
       <workItem from="1484615675162" duration="12528000" />
       <workItem from="1484702466100" duration="8782000" />
+      <workItem from="1484792019907" duration="1217000" />
+      <workItem from="1484892010727" duration="324000" />
+      <workItem from="1484893119682" duration="6715000" />
+      <workItem from="1485048172406" duration="12915000" />
+      <workItem from="1485138713713" duration="3540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38382000" />
+    <option name="totallyTimeSpent" value="63093000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1292" height="767" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26794258" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2082671" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -336,94 +390,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_09/9.3除此之外.js" />
-    <entry file="file://$PROJECT_DIR$/chapter_11/11.4JSONP.html" />
-    <entry file="file://$PROJECT_DIR$/chapter_11/11.3站长统计.js" />
-    <entry file="file://$PROJECT_DIR$/3-结构性设计模式/chapter_11代理模式/11.4JSONP.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3-结构性设计模式/chapter_11代理模式/11.3站长统计.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第三篇-结构性设计模式/chapter_11/11.5代理模板.js" />
-    <entry file="file://$PROJECT_DIR$/3-结构性设计模式/chapter_11代理模式/11.5Y域中被请求的文件接口.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3-结构性设计模式/chapter_11代理模式/11.5X域代理B页面.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3-结构性设计模式/chapter_11代理模式/11.5X域被代理A页面.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-面向对象编程/chapter_02面向对象编程/2.3.3组合继承.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-面向对象编程/chapter_02面向对象编程/2.3.1类式继承_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-面向对象编程/chapter_02面向对象编程/2.5多态_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-面向对象编程/chapter_02面向对象编程/2.5多态_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-面向对象编程/chapter_02面向对象编程/2.4.2多继承.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-面向对象编程/chapter_02面向对象编程/2.4.1单继承.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-面向对象编程/chapter_02面向对象编程/2.3.1类式继承_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1-面向对象编程/chapter_02面向对象编程/2.3.4原型式继承.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -449,7 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-440">
           <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -464,7 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-57">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -507,7 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -515,7 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -573,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -595,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,9 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,7 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,15 +597,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="886">
           <caret line="112" column="7" selection-start-line="112" selection-start-column="7" selection-end-line="112" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/16.4模板的原型方法.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
+        <state relative-caret-position="684">
           <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,14 +625,128 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_16模板方法模式/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        <state relative-caret-position="133">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.3 创建一个观察者.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.6大显身手.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.8演练.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/17.7对象间解耦.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_17观察者模式/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/18.6状态优化.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/18.7两种使用方式.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_18状态模式/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.3策略对象.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.6表单验证.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_19策略模式/19.7拓展与调用.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.3第一站-请求模式.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.4下一站-响应数据适配模块.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.5终点站-创建组件模块.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-行为型设计模式/chapter_20职责链模式/20.6单元测试.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>

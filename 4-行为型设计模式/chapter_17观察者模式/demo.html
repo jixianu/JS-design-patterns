@@ -2,9 +2,24 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<div >
+    <ul id="msg"></ul>
+</div>
+<textarea name="" id="user_input" cols="30" rows="10"></textarea>
+<input type="button" id="user_submit" value="提交">
+<script src="17.3%20创建一个观察者.js"></script>
+
+<script src="17.6大显身手.js"></script>
+<script src="17.7对象间解耦.js"></script>
+<script src="17.8演练.js"></script>
+<script>
+    Observer.regist('test', function (e) {
+        console.log( e.type, e.args.msg,e.args.mse );
+    })
+    Observer.fire('test', {msg: '传递参数',mse:'ttt'});
+</script>
 </body>
 </html>
