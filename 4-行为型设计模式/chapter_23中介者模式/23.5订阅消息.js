@@ -21,19 +21,19 @@ var showHideNavWidget = function (mod, tag, showOrHide) {
 (function () {
     // ..其他交互逻辑
     // 订阅隐藏用户收藏导航消息提醒消息
-    MediaError.regist('hideAllNavNum', function () {
+    Mediator.regist('hideAllNavNum', function () {
         showHideNavWidget('collection_nav', 'b', false);
     });
     // 订阅显示用户收藏导航消息提醒消息
-    MediaError.regist('hideAllNavNum', function () {
+    Mediator.regist('hideAllNavNum', function () {
         showHideNavWidget('collection_nav', 'b', true);
     });
     // 订阅隐藏用户收藏导航网址消息
-    MediaError.regist('hideAllNavUrl', function () {
+    Mediator.regist('hideAllNavUrl', function () {
         showHideNavWidget('collection_nav', 'span', false);
     });
     // 订阅显示用户收藏导航网址消息
-    MediaError.regist('hideAllNavUrl', function () {
+    Mediator.regist('hideAllNavUrl', function () {
         showHideNavWidget('collection_nav', 'span', true);
     });
 })();
@@ -42,11 +42,11 @@ var showHideNavWidget = function (mod, tag, showOrHide) {
 (function () {
     // ..其他交互逻辑
     // 订阅隐藏推荐用户导航消息提醒消息
-    MediaError.regist('hideAllNavNum', function () {
+    Mediator.regist('hideAllNavNum', function () {
         showHideNavWidget('recommend_nav', 'b', false);
     });
     // 订阅显示推荐用户导航消息提醒消息
-    MediaError.regist('hideAllNavNum', function () {
+    Mediator.regist('hideAllNavNum', function () {
         showHideNavWidget('recommend_nav', 'b', true);
     });
 })()
@@ -55,11 +55,11 @@ var showHideNavWidget = function (mod, tag, showOrHide) {
 (function () {
     // ..其他交互逻辑
     // 订阅隐藏用户收藏导航网址消息
-    MediaError.regist('hideAllNavUrl', function () {
+    Mediator.regist('hideAllNavUrl', function () {
         showHideNavWidget('recently_nav', 'span', false);
     });
     // 订阅显示用户收藏导航网址消息
-    MediaError.regist('hideAllNavNum', function () {
+    Mediator.regist('hideAllNavNum', function () {
         showHideNavWidget('recently_nav', 'span', true);
     });
 })()

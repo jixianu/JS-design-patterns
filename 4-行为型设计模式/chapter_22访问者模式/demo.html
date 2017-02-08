@@ -2,9 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<input type="button" id="btn" value="按钮">
+<div id="test"></div>
 </body>
+<script src="./22.4事件自定义数据.js"></script>
+<script src="./22.5对象访问器.js"></script>
+<script>
+    var a = new Object();
+    console.log( a.length );
+    Visitor.push(a, 1,2,3,4);
+    console.log( a.length );
+    Visitor.push(a, 4,5,6);
+    console.log( a );
+    console.log( a.length );
+    Visitor.pop(a);
+    console.log( a );
+    console.log( a.length );
+    Visitor.splice(a,2);
+    console.log( a );
+</script>
 </html>

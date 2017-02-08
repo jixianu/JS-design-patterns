@@ -25,4 +25,4 @@ var sendData = function (data, dealType, dom) {
     // 发送异步请求
     xhr.open('get', url, true);
     xhr.send(null);
-}
+};
